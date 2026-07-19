@@ -1,4 +1,3 @@
-
 def convert_to_npr(dollar):
     rate = 138
     return dollar * rate
